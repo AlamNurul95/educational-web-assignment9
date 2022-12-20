@@ -8,7 +8,7 @@ import Services from '../Services/Services';
 import UseServices from '../../hooks/UseServices';
 
 const Home = () => {
-    const [services, setServices] = UseServices();
+
     return (
         <div className='container'>
             <div className='slides'>
