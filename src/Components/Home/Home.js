@@ -5,10 +5,9 @@ import img2 from './images/2.jpg';
 import img3 from './images/3.jpg';
 import './Home.css';
 import Services from '../Services/Services';
-import UseServices from '../../hooks/UseServices';
+
 
 const Home = () => {
-
     return (
         <div className='container'>
             <div className='slides'>
