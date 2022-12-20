@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "IELTS",
+        "price": 65,
+        "duration": "3 Month",
+        "img": "https://www.go.study/assets/benefits-of-ielts-test.jpg"
+    },
+    {
+        "Name": "TOFEL",
+        "price": 75,
+        "duration": "3 Month",
+        "img": "https://www.jeduka.com/storage/newsletter/1599895068_ielts_exam.png"
+    },
+    {
+        "Name": "GRE",
+        "price": 80,
+        "duration": "3 Month",
+        "img": " https://blog.y-axis.com/wp-content/uploads/2020/06/GRE-Coaching-Classes.jpeg"
+    },
+    {
+        "Name": "SPOKEN ENGLISH",
+        "price": 30,
+        "duration": "2 Month",
+        "img": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/05/05011631/How-to-Learn-Spoken-English_.png"
+    },
+    {
+        "Name": "GMAT",
+        "price": 80,
+        "duration": "3 Month",
+        "img": "https://loanvidya.co.in/wp-content/uploads/2022/03/Gmat.jpg"
+    },
+    {
+        "Name": "ENGLISH LANGUAGE & CULTURE",
+        "price": 120,
+        "duration": "12 Month",
+        "img": "http://www.macmillandictionaryblog.com/wp-content/uploads/2013/02/International-Mother-Language-Day-1.jpg"
+    },
+    {
+        "Name": "ENGLISH HISTORY",
+        "price": 55,
+        "duration": "6 Month",
+        "img": "https://ielanguages.com/logos/historyeng.png"
+    }
+]

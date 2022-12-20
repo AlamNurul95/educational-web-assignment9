@@ -1,14 +1,14 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import img1 from './images/1.jpg';
 import img2 from './images/2.jpg';
 import img3 from './images/3.jpg';
 import './Home.css';
-
-
-
+import Services from '../Services/Services';
+import UseServices from '../../hooks/UseServices';
 
 const Home = () => {
+    const [services, setServices] = UseServices();
     return (
         <div className='container'>
             <div className='slides'>
@@ -38,6 +38,7 @@ const Home = () => {
             </div>
             <div className='services'>
                 <h3>ENGLISH EXTENSIVE COURSES</h3>
+                <Services></Services>
             </div>
         </div>
     );
